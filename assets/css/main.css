@@ -148,16 +148,21 @@
   text-align: left;
 }
 
-#about h2 {
-  font-size: 26px;
-}
-
 #about p {
   color: var(--color-yellow);
-  font-size: 26px;
   font-style: italic;
   line-height: 1.64rem;
   text-shadow: 0px 0px 6px black;
+}
+
+#about h1 {
+  font-size: 64px;
+}
+#about h2 {
+  font-size: 32px;
+}
+#about p {
+  font-size: 28px;
 }
 
 /*!
@@ -184,10 +189,10 @@
   content: 'Sígueme en:';
   color: var(--color-white);
   display: inline;
-  font-size: 14px;
+  font-size: 16px;
   letter-spacing: 2px;
   position: absolute;
-  top: -14px;
+  top: -16px;
 }
 #about nav a {
   display: inline-block;
@@ -199,7 +204,7 @@
 #copyright {
   position: absolute;
   bottom: 0px;
-  width: calc(100vw - 8rem);
+  width: calc(100vw - 6rem);
 }
 #copyright p {
   color: var(--color-white);
@@ -210,11 +215,10 @@
 }
 
 
+/*
 @media only screen and (min-width:48em) {
 }
 @media only screen and (min-width:62em) {
 }
 @media only screen and (min-width:75em) {
-
-  
-}
+}*/
