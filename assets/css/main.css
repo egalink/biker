@@ -134,7 +134,7 @@
 }
 
 #content .wrapper {
-  margin: 0 4rem;
+  margin: 0 3rem;
   width: 100%;
 }
 
@@ -150,7 +150,7 @@
 
 #about p {
   color: var(--color-yellow);
-  font-size: 20px;
+  font-size: 26px;
   font-style: italic;
   line-height: 1.64rem;
   text-shadow: 0px 0px 6px black;
@@ -203,4 +203,14 @@
 }
 #copyright p a {
   color: inherit;
+}
+
+
+@media only screen and (min-width:48em) {
+}
+@media only screen and (min-width:62em) {
+}
+@media only screen and (min-width:75em) {
+
+  
 }
