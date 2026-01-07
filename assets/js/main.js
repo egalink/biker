@@ -115,7 +115,7 @@ var ScrollReveal=function(){"use strict";var r={delay:0,distance:"0",duration:60
         "Esa sensación de perderse en la belleza de la naturaleza para encontrarse con uno mismo.",
         "Es embriagante la sensación de anonimato en una ciudad donde nunca he estado.",
         "Entre lo cotidiano y lo increíble solo hay kilómetros de distancia.",
-        "En la vida, como en las motos, no hay reversa. Así que no lo dudes.",
+        "En la vida, como en las motos, no hay reversa. Así que no lo Advs.",
         "En el camino detente, descansa, admira, y continúa.",
         "El tiempo que se disfruta es el verdadero tiempo vivido...",
         "El que se atreve, encuentra nuevos caminos.",

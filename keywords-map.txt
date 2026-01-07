@@ -2,8 +2,8 @@ Jakim
 Hernández
 Jakim Hernández
 Workman
-Dude
-Workman Dude
+Adv
+Workman Adv
 México
 Cuautitlán
 Izcalli
@@ -18,4 +18,4 @@ viajes en moto
 aventura y gloria
 la tierra es de quien la rueda
 baja cilindrada
-@the_workman_adv
+@workman_adv
